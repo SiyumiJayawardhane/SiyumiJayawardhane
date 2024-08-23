@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm @SiyumiJayawardhane</h1>
-<h3 align="center">I am Siyumi Jayawardhane.I am a first-year undergraduate student at IIT, following an AI & Data Science degree in University of Robert Gordon.</h3>
+
+- I am Siyumi Jayawardhane.I am a first-year undergraduate student at IIT, following an AI & Data Science degree in University of Robert Gordon.
 
 - 🔭 I’m currently working on **R project.**
 
